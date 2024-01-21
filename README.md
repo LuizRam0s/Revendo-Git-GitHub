@@ -30,38 +30,64 @@ https://www.youtube.com/watch?v=cfgc51svrkg
 
 
 
-## Salvando primeira versão
+## Salvando primeira versão :one:
 
-git init
+**git init**
 
-git add .
+**git add .**
 
-git commit -m "Mensagem explicativa"
+**git commit -m "Mensagem explicativa"**
 
-git branch -M main
+**git branch -M main**
 
-git remote add origin git@github.com:seuusuario/seurepositorio.git
+**git remote add origin git@github.com:seuusuario/seurepositorio.git**
 
-git push -u origin main
+**git push -u origin main**
 
 
 
 ### Salvando uma nova versão
 
-git add .
+**git add .**
 
-git commit -m "Mensagem explicativa"
+**git commit -m "Mensagem explicativa"**
 
-git push origin main
+**git push origin**
 
 
 
 ## Clonando ou modificando um projeto
 
-git clone  git@github.com:seuusuario/seurepositorio.git
+**git clone  git@github.com:seuusuario/seurepositorio.git**
 
-git add .
+**git add .**
 
-git commit -m "Mensagem"
+**git commit -m "Mensagem"**
 
-git push
+**git push**
+
+
+
+## Um pouco sobre STATUS e STAGE
+
+**Modified:** quando um arquivo sofre alguma modificação.
+
+**Untracked:** quando adicionado um arquivo novo.
+
+**Deleted:** quando um arquivo é deletado
+
+**Stage:** área onde os arquivos estão prontos para ser comitado
+
+
+
+### Git DIFF :
+
+Comando utilizado para poder ver as diferenças feitas num arquivo modificado (Linhas adicionadas ou textos modificados por exemplo).
+
+
+
+## Git checkout
+
+Utilizado para modificar temporariamente os arquivos de um projeto para uma versão anterior (Commit ou branch)
+
+**git log :** para poder ver o código das versão comitadas.
