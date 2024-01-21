@@ -6,7 +6,7 @@ Esta sendo utilizado o conteúdos do curso do professor *Nélio Alves*  do curso
 
 
 
-## Configurando sua identificação no GIT ::desktop_computer:
+## Configurando sua identificação no GIT :desktop_computer:
 
 Adicionando nome.
 
