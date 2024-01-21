@@ -6,7 +6,7 @@ Esta sendo utilizado o conteúdos do curso do professor *Nélio Alves*  do curso
 
 
 
-## Configurando sua identificação no GIT ::desktop_computer:
+## Configurando sua identificação no GIT :desktop_computer:
 
 Adicionando nome.
 
@@ -91,3 +91,13 @@ Comando utilizado para poder ver as diferenças feitas num arquivo modificado (L
 Utilizado para modificar temporariamente os arquivos de um projeto para uma versão anterior (Commit ou branch)
 
 **git log :** para poder ver o código das versão comitadas.
+
+**git checkou**t **codigo commit**: usado para voltar na versão desejada.
+
+**git checkout HEAD~1**: outra forma de andar entre os commits, onde o que só muda é a numeração final
+
+**git reset**
+
+**git clean -df**
+
+**git checkout -- .**
